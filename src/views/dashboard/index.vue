@@ -1,7 +1,10 @@
 <template>
   <div class="dashboard-container">
+    Torrent文件系统
+    <file-manager></file-manager>
     <div class="dashboard-text">name: {{ name }}</div>
   </div>
+  
 </template>
 
 <script>
